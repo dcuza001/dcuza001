@@ -1,7 +1,32 @@
-## Hi there 👋
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/dcuza001">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-cuza">Cybersecurity Professional</a>
+
+<h2>👨‍💻 Technical Projects:</h2>
+
+- <b>Microsoft Azure Honeypot VM with Microsoft Sentinel Analysis + PowerShell</b>
+  - [Failed RDP Brute Force Geomapping](https://github.com/dcuza001/Azure-Sentinel-Geolocation-Lab)
+- <b>Messenger Application (Java, PostgreSQL)</b>
+  - [Messenger and Database Management](https://github.com/dcuza001/Database-Management)
+- <b>Mobile iOS Application</b>
+  - [Biz-e-Bodies, Networking App](http://devpost.com/software/biz-e-bodies) <i>(UC Riverside Citrus Hack 1st Place – Equipo Challenge)</i>
+- <b>Android Application</b>
+  - [Blip, Geolocation-based Social Media App](https://github.com/dcuza001/Blip-Android)
+
+<h2>👨‍💻 Certifications:</h2>
+
+- [CompTIA (Network+, Security+)](https://www.credly.com/users/daniel-cuza)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/DanielCuza-1950/E10B51C507DCCC9A?sharingId=7EE305D0DB2BBEE)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="DanielCuza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/daniel-cuza
 
 <!--
-**dcuza001/dcuza001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
