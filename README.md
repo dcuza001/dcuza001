@@ -11,7 +11,7 @@
 - <b>Android Application</b>
   - [Blip, Geolocation-based Social Media App](https://github.com/dcuza001/Blip-Android)
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>📄 Certifications:</h2>
 
 - [CompTIA (Network+, Security+)](https://www.credly.com/users/daniel-cuza)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/DanielCuza-1950/E10B51C507DCCC9A?sharingId=7EE305D0DB2BBEE)
