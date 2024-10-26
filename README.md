@@ -4,12 +4,12 @@
 
 - <b>Microsoft Azure Honeypot VM with Microsoft Sentinel Analysis + PowerShell</b>
   - [Failed RDP Brute Force Geomapping](https://github.com/dcuza001/Azure-Sentinel-Geolocation-Lab)
+- <b>Mobile iOS Application (Swift, Objective-C)</b>
+  - [Biz-e-Bodies, Networking App](http://devpost.com/software/biz-e-bodies) <i>(UC Riverside Citrus Hack 1st Place – Equipo Challenge)</i>
+- <b>Android Application (Java)</b>
+  - [Blip, Geolocation-based Social Media App](https://github.com/dcuza001/Blip-Android)
 - <b>Messenger Application (Java, PostgreSQL)</b>
   - [Messenger and Database Management](https://github.com/dcuza001/Database-Management)
-- <b>Mobile iOS Application</b>
-  - [Biz-e-Bodies, Networking App](http://devpost.com/software/biz-e-bodies) <i>(UC Riverside Citrus Hack 1st Place – Equipo Challenge)</i>
-- <b>Android Application</b>
-  - [Blip, Geolocation-based Social Media App](https://github.com/dcuza001/Blip-Android)
 
 <h2>📄 Certifications:</h2>
 
