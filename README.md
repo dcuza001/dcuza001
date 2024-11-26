@@ -6,6 +6,8 @@
   - [Failed RDP Brute Force Geomapping](https://github.com/dcuza001/Azure-Sentinel-Geolocation-Lab)
 - <b>Nessus Vulnerability Management for a Windows 11 Host in VMware Fusion</b>
   - [Nessus Vulnerability Remediation](https://github.com/dcuza001/Nessus-Vulnerability-Management-and-Remediation)
+- <b>Active Directory Lab in Azure w/ Powershell Script Configuration</b>
+  - [Quick Active Directory Lab in Azure](https://github.com/dcuza001/Active-Directory-Lab-in-Azure)
 - <b>Mobile iOS Application (Swift, Objective-C)</b>
   - [Biz-e-Bodies, Networking App](http://devpost.com/software/biz-e-bodies) <i>(UC Riverside Citrus Hack 1st Place – Equipo Challenge)</i>
 - <b>Android Application (Java)</b>
